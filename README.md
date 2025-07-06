@@ -1,4 +1,4 @@
-# crashycash<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="hi">
 <head>
   <meta charset="UTF-8" />
@@ -68,5 +68,33 @@
 <body>
   <header>CrashyCash</header>
 
-  <div class=
-  
+  <div class="hero">
+    <h1>Win Real Money!</h1>
+    <p>Play Crash, Dice, Spin & Bonus games. 300% bonus on first deposit via UPI or Crypto.</p>
+    <div class="cta">
+      <a href="#">📥 Download APK</a>
+    </div>
+  </div>
+
+  <div class="features">
+    <div class="feature">
+      <h3>🔥 Crash Game</h3>
+      <p>Cash out before it crashes. Simple & thrilling.</p>
+    </div>
+    <div class="feature">
+      <h3>🎲 Dice</h3>
+      <p>Roll & Win in just seconds. Luck + Fun.</p>
+    </div>
+    <div class="feature">
+      <h3>🎡 Spin the Wheel</h3>
+      <p>Daily spins with prizes & surprises.</p>
+    </div>
+    <div class="feature">
+      <h3>🎁 300% Bonus</h3>
+      <p>Get 3x bonus on first deposit. T&C apply.</p>
+    </div>
+  </div>
+
+  <footer>© 2025 CrashyCash. All rights reserved.</footer>
+</body>
+</html>
